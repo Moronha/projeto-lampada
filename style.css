@@ -1,0 +1,10 @@
+body{
+    background-color: orange;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    margin: 0 20px;
+}
